@@ -13,7 +13,7 @@ DoorDash is one of the major competitors in the food delivery space. We pulled d
 Dataset Used:
 * Dataset used for analysis: DoorDash Restaurant Data - https://www.kaggle.com/datasets/polartech/doordash-restaurant-data
 
-Data Limitations:
+## Data Limitations:
 * Data only included one day's worth of data and for 4 markets, would have liked multiple days and nationwide.
 * The ratings didn't include a breakdown of how the rating was achieved or the multiple ratings a user would have noted.
 * Cuisine categorization wasn't standardized and needed some manipulation
