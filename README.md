@@ -1,7 +1,7 @@
 # Group-7-Data-Project
 
 # A Moveable Feast
-Group Project 1 for Laura Jordan, Minkyong Kim, Colleen Fitzgerald, Yemi Adetunji
+Group Project 1 for Laura Jordan, Minkyong Kim, Colleen Fitzgerald, Akinyemi Adetunji
 
 ## Description
 DoorDash is one of the major competitors in the food delivery space. We pulled data from Kaggle and looked at one day's worth of delivery data for DoorDash for 4 major U.S. markets - New York City, Boston, Chicago and Los Angeles. Our data allowed us to look at the cumulative data as well as a regionalized view to answer 3 business questions. Those questions were:
