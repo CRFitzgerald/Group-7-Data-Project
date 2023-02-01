@@ -25,7 +25,7 @@ Dataset Used:
 * There wasn't a significant correlation between rating and delivery time
 
 ## Support
-We joined used classtime to work through issues, office hours prior to class, and utilized AskBCS Learning Assistants for the support needed for this group assignment.
+We used classtime to work through issues, office hours prior to class, and utilized AskBCS Learning Assistants for the support needed for this group assignment.
 
 ## Submission Includes
 ##### Main Codes:
