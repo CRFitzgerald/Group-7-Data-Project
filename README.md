@@ -28,7 +28,8 @@ Dataset Used:
 We used classtime to work through issues, office hours prior to class, and utilized AskBCS Learning Assistants for the support needed for this group assignment.
 
 ## Submission Includes
-* Code used
+* Code used (Jupyter Notebooks)
 * Saved images
-* PDF of the Presentation
-
+* Presentation (PDF)
+* Written Analysis (PDF)
+* Project Proposal (PDF)
