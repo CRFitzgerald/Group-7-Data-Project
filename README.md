@@ -28,7 +28,7 @@ Dataset Used:
 We used classtime to work through issues, office hours prior to class, and utilized AskBCS Learning Assistants for the support needed for this group assignment.
 
 ## Submission Includes
-##### Main Codes:
-* will add to this once files are all in GitHub
-##### Images:
-* will add information to this once all files are in GitHub
+* Code used
+* Saved images
+* PDF of the Presentation
+
